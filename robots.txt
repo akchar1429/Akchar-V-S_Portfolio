@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Add the deployed sitemap URL after publishing.
